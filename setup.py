@@ -4,7 +4,7 @@ from pathlib import Path
 
 PACKAGE_NAME = "cdep_base"
 DESCRIPTION = "Base package for the installation of the rest of icdep's dependencies"
-URL = ""
+URL = "https://github.com/jmartinpe/cdep_base"
 AUTHOR = "John Doe"
 AUTHOR_EMAIL = "jmartinpe@sia.es"
 LICENSE = "UNLICENSED"
