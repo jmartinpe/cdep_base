@@ -23,6 +23,7 @@ setuptools.setup(
         "package_b": ["cdep_package_b"],
     },
     include_package_data=True,
+    packages=setuptools.find_packages(),
     install_requires=REQUIREMENTS,
     classifiers=["Programming Language :: Python :: 3"],
 )
